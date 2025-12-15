@@ -1,4 +1,4 @@
-[![Header](https://github.com/Nevermind00/Nevermind00/blob/main/assets/header.jpg)](https://github.com/Nevermind00)
+[![Header](https://github.com/Nevermind00/Nevermind00/blob/main/assets/header.jpg)](https://github.com/makwells)
 
 <h1 align="center">Welcome to my profile!</h1>
 
