@@ -5,6 +5,23 @@
 <h3>About me</h3>
 <p>I'm <b>makwells</b>, a Fullstack developer from 🇷🇺 <b>Russia</b>.</p>
 
+<h3>🍄 What I use in development?</h3>
+
+![Obsidian Badge](https://img.shields.io/badge/-Obsidian-darked?style=flat-square&logo=obsidian&logoColor=black&color=%23ffffff)
+![vscode Badge](https://img.shields.io/badge/-vscode-darked?style=flat-square&logoColor=black&color=%23ffffff)
+![Git Badge](https://img.shields.io/badge/-Git-darked?style=flat-square&logo=git&logoColor=black&color=%23ffffff)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-darked?style=flat-square&logo=github&logoColor=black&color=%23ffffff)
+![Python Badge](https://img.shields.io/badge/-python-darked?style=flat-square&logo=python&logoColor=black&color=%23ffffff)
+![HTML5 Badge](https://img.shields.io/badge/-HTML-darked?style=flat-square&logo=HTML5&logoColor=black&color=%23ffffff)
+![CSS Badge](https://img.shields.io/badge/-CSS-darked?style=flat-square&logo=css&logoColor=black&color=%23ffffff)
+![Firefox Badge](https://img.shields.io/badge/-Firefox-darked?style=flat-square&logo=firefox&logoColor=black&color=%23ffffff)
+
+
+
+
+
+
+
 <h3>Social media</h3>
 
 [![Discord Badge](https://img.shields.io/badge/-discord-darked?style=flat-square&logo=discord&logoColor=white&color=%237289da&link=https%3A%2F%2Fdiscord.gg%2FF5dFFqYb)](https://discord.gg/F5dFFqYb)
