@@ -2,10 +2,12 @@
 
 <h1 align="center">Welcome to my profile!</h1>
 
-### :bear: About me
-<p>I'm <b>makwells</b>, a Fullstack developer from :ru: <b>Russia</b>.</p>
+### 🐻 About me
+<p>I'm <b>makwells</b>, a Fullstack developer from 🇷🇺 <b>Russia</b>.</p>
 
 ### 🍄 What I use in development?
+
+At the moment, my main programming language is Python. 
 
 ![Obsidian Badge](https://img.shields.io/badge/-Obsidian-darked?style=flat-square&logo=obsidian&logoColor=black&color=%23ffffff)
 ![vscode Badge](https://img.shields.io/badge/-vscode-darked?style=flat-square&logoColor=black&color=%23ffffff)
@@ -16,13 +18,16 @@
 ![CSS Badge](https://img.shields.io/badge/-CSS-darked?style=flat-square&logo=css&logoColor=black&color=%23ffffff)
 ![Firefox Badge](https://img.shields.io/badge/-Firefox-darked?style=flat-square&logo=firefox&logoColor=black&color=%23ffffff)
 
-### :blue_book: Statistics
+
+
+### 📘 Statistics
 ![makwells GitHub stats](https://github-readme-stats.vercel.app/api?username=makwells&show_icons=true&theme=graywhite)
 
 
-
-### Social media
+### Where can you find me?
 
 [![Discord Badge](https://img.shields.io/badge/-discord-darked?style=flat-square&logo=discord&logoColor=white&color=%237289da&link=https%3A%2F%2Fdiscord.gg%2FF5dFFqYb)](https://discord.gg/F5dFFqYb)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40mkws-656)](https://www.youtube.com/@mkws-656)
+
+
 
